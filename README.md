@@ -1,2 +1,2 @@
 # OIBSIP_Task3
-Oasisinfobyte internship on web development. Here I have completed the task-3 of Level-2 of OASIS INFOBYTE with the help of HTML, CSS, JavaScript.
+TASK-3:- To-do WebApp(It is a Oasis Infobyte Level 2 Task 3 of code to develop a To-Do WebApp. It is written using HTML, CSS and JavaScript. It is a single page web app that lets users manage a simple list of tasks. Here users can add and remove tasks from the list.)
